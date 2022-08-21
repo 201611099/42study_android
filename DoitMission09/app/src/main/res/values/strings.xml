@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DoitMission09</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">고객정보 입력</string>
+    <string name="name">이름</string>
+    <string name="age">나이</string>
+    <string name="birth">생년월일</string>
+    <string name="save">저장</string>
+</resources>
