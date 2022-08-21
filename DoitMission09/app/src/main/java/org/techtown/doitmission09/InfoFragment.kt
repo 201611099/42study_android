@@ -43,6 +43,7 @@ class InfoFragment : Fragment() {
         rootView.btnBirth.text = SimpleDateFormat("yyyy-MM-dd", Locale("ko", "KR")).format(Date(System.currentTimeMillis()))
         rootView.btnBirth.setOnClickListener {
             val calendar = Calendar.getInstance()
+            // https://taetoungs-branch.tistory.com/87
             val dateSetListener = DatePickerDialog.OnDateSetListener { view, year, month, dayOfMonth ->
                 dateString = "${year}-"
                 if (month + 1 < 10)
