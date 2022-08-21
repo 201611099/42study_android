@@ -13,13 +13,13 @@
         android:layout_height="0dp"
         android:layout_weight="10"
         android:ems="10"
-        android:inputType="textPersonName"
+        android:inputType="textPassword"
         android:gravity="center_horizontal"
         android:textSize="48sp"
         android:layout_margin="20dp"
         android:maxLines="10"
-        android:maxWidth="388sp"
-        android:text="입력상자" />
+        android:maxLength="8"
+        android:hint="입력상자" />
 
     <TextView
         android:id="@+id/textView"

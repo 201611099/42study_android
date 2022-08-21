@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleParcelable</string>
+    <string name="btnMenu">메뉴 화면 띄우기</string>
+</resources>

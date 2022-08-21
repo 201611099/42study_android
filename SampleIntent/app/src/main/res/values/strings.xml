@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleIntent</string>
+    <string name="backBtn">돌아가기</string>
+    <string name="menuBtn">메뉴 화면 띄우기</string>
+</resources>
