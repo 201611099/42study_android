@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DoitMission10_re</string>
+    <string name="first">메뉴 1</string>
+    <string name="second">메뉴 2</string>
+    <string name="third">메뉴 3</string>
+    <string name="drawer_open">열기</string>
+    <string name="drawer_close">닫기</string>
+</resources>

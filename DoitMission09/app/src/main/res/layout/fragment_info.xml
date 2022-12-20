@@ -36,7 +36,6 @@
         android:id="@+id/btnBirth"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#FFFFFF"
         android:text="@string/birth"
         android:textSize="18sp"
         android:textAlignment="textStart" />
